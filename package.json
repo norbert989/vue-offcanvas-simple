@@ -1,6 +1,6 @@
 {
   "name": "vue-offcanvas-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple off canvas sidebar for use in vuejs 2.0 projects",
   "main": "src/SidebarOffCanvas.vue",
   "peerDependencies": {
