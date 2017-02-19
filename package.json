@@ -1,0 +1,29 @@
+{
+  "name": "vue-offcanvas-simple",
+  "version": "1.0.0",
+  "description": "a simple off canvas sidebar for use in vuejs 2.0 projects",
+  "main": "src/SidebarOffCanvas.vue",
+  "peerDependencies": {
+    "vue": ">=2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norbert989/vue-offcanvas-simple.git"
+  },
+  "keywords": [
+    "vuejs",
+    "sidebar",
+    "vuejs",
+    "off",
+    "canvas"
+  ],
+  "author": "NPM Norbert Nagy <norbertnadj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norbert989/vue-offcanvas-simple/issues"
+  },
+  "homepage": "https://github.com/norbert989/vue-offcanvas-simple#readme"
+}
