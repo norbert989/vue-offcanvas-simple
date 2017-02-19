@@ -39,3 +39,14 @@ export default {
 </script>
 
 ```
+
+## Badges
+
+![](https://img.shields.io/badge/license-MIT-blue.svg)
+![](https://img.shields.io/badge/status-stable-green.svg)
+
+---
+
+
+> GitHub [@norbert989](https://github.com/norbert989n) &nbsp;&middot;&nbsp;
+
