@@ -48,5 +48,5 @@ export default {
 ---
 
 
-> GitHub [@norbert989](https://github.com/norbert989n)
+> GitHub [@norbert989](https://github.com/norbert989)
 
